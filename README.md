@@ -1,7 +1,9 @@
 # NFC-card
 NFC Business Card
 
+参考
 
+https://www.instructables.com/PCB-Business-Card-With-NFC/
 
 ## 元件选型
 
@@ -26,3 +28,12 @@ https://www.nxp.com/part/NT3H2111W0FTT#/
 https://www.digikey.cn/product-detail/zh/nxp-usa-inc/NT3H2111W0FTTJ/568-12902-1-ND/5872987?keywords=NT3H2111W0FTTJ
 
 100	4.82480
+
+
+
+## 尺寸
+
+标准尺寸
+
+85.6mm×54.0mm×1.0mm
+
