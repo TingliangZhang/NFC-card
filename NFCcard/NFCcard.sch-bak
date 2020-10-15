@@ -24,4 +24,15 @@ F 3 "" H 3850 3150 50  0001 C CNN
 	1    3850 3150
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:Antenna_Dipole AE?
+U 1 1 5F88B0DD
+P 5550 2650
+F 0 "AE?" H 5780 2564 50  0000 L CNN
+F 1 "Antenna_Dipole" H 5780 2473 50  0000 L CNN
+F 2 "NFCcard:NFCantenna" H 5550 2650 50  0001 C CNN
+F 3 "~" H 5550 2650 50  0001 C CNN
+	1    5550 2650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

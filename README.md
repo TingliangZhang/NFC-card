@@ -37,3 +37,16 @@ https://www.digikey.cn/product-detail/zh/nxp-usa-inc/NT3H2111W0FTTJ/568-12902-1-
 
 85.6mm×54.0mm×1.0mm
 
+
+
+## 天线设计
+
+https://github.com/lachlanA/eagle-to-kicad
+
+导入太麻烦了
+
+用EAGEL导出DXF再用AutoCAD去掉焊盘等（可到Kicad里面编辑），导入到KiCad封装编辑器里面，但是没办法作为铜层，所以直接编辑源码
+
+把F.Adhes全部替换为F.Cu
+
+搞定
