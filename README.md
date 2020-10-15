@@ -11,3 +11,18 @@ NT3H1101W0FHKH / NT3H2111W0FHKH
 
 https://www.nxp.com/part/NT3H2111W0FHK#/
 
+XQFP没封装
+
+换用
+
+https://www.nxp.com/part/NT3H2111W0FT1#/
+
+https://www.nxp.com/part/NT3H2111W0FTT#/
+
+
+
+[TSSOP8](https://www.nxp.com/packages/SOT505-1)封装更薄，用NT3H2111W0FTT
+
+https://www.digikey.cn/product-detail/zh/nxp-usa-inc/NT3H2111W0FTTJ/568-12902-1-ND/5872987?keywords=NT3H2111W0FTTJ
+
+100	4.82480
