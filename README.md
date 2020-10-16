@@ -53,7 +53,7 @@ https://github.com/lachlanA/eagle-to-kicad
 
 
 
-PCB视频
+## PCB视频
 
 https://www.bilibili.com/video/BV1dK4y1s72o
 
@@ -61,7 +61,7 @@ https://www.jlc.com/portal/factoryVideo/0/0
 
 
 
-讲座需要软件：
+## 讲座需要Win软件：
 
 腾讯会议
 
@@ -76,4 +76,10 @@ Apowerec录屏
 嘉立创下单小助手
 
 
+
+## 换用Mac后：
+
+https://support.apple.com/zh-cn/HT208721
+
+安装时把kicad文件夹拷到libraries/application support里面需要授权。最好直接拖到文件夹里面而非快捷方式，这样才能链接库。
 
