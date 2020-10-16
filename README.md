@@ -79,6 +79,8 @@ Apowerec录屏
 
 ## 换用Mac后：
 
+使用 QuickTime Player录屏
+
 https://support.apple.com/zh-cn/HT208721
 
 安装时把kicad文件夹拷到libraries/application support里面需要授权。最好直接拖到文件夹里面而非快捷方式，这样才能链接库。
