@@ -50,3 +50,30 @@ https://github.com/lachlanA/eagle-to-kicad
 把F.Adhes全部替换为F.Cu
 
 搞定
+
+
+
+PCB视频
+
+https://www.bilibili.com/video/BV1dK4y1s72o
+
+https://www.jlc.com/portal/factoryVideo/0/0
+
+
+
+讲座需要软件：
+
+腾讯会议
+
+Powerpoint
+
+Altium Designer 20+
+
+KiCad 6.1+
+
+Apowerec录屏
+
+嘉立创下单小助手
+
+
+
